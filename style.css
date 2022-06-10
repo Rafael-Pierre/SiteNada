@@ -1,0 +1,26 @@
+body{
+
+    background-color: lightgreen;
+}
+
+h1{
+
+    font-size: 35px;
+    font-family: fantasy;
+    
+}
+
+.container{
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.titulo{
+    
+    align-items: center;
+    justify-content: center;
+}
